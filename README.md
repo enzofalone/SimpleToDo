@@ -28,13 +28,15 @@ In the future I would add the optional implementation and create different activ
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/VlwbJ2g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/enzofalone/SimpleToDo/blob/main/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+This was my first time trying out Kotlin and doing Android applications. However, I carefully re-read all the code and searched on Internet in order to understand everything I was doing as the recyclingView is something I had never seen before in any other programming subject
 
 ## License
 
